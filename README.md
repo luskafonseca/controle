@@ -43,7 +43,7 @@ Este é um sistema web simples de **controle financeiro familiar**, desenvolvido
 
 ```bash
 git clone https://github.com/luskafonseca/controle.git
-cd controle-familiar
+cd controle
 
 2. Configure o banco de dados:
 
